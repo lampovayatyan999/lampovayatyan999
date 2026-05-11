@@ -13,3 +13,12 @@
 | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
 
 </div>
+<div align="center">
+
+| [![VOID](https://i.ytimg.com/vi/Hv1npdFgpcY/hqdefault.jpg)](https://youtu.be/Hv1npdFgpcY) | [![Atashi ga Tonari](https://i.ytimg.com/vi/8p4e0URzGyE/hqdefault.jpg)](https://youtu.be/8p4e0URzGyE) | [![No Game No Life](https://i.ytimg.com/vi/6YT4eGC1tYI/hqdefault.jpg)](https://youtu.be/6YT4eGC1tYI) |
+|:---:|:---:|:---:|
+| **Atashi ga Tonari ni Iru Uchi ni** | **This Game** | **VOID** |
+| Chiaki Fujikawa | Konomi Suzuki | Kawaragi Momoka |
+|  [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/Hv1npdFgpcY) | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/8p4e0URzGyE) | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/6YT4eGC1tYI) |
+
+</div>
