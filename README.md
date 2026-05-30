@@ -6,10 +6,7 @@
 </div>
 
 <br>
-
 <div align="center">
-<table><tr>
-<td valign="top" width="60%">
 
 | <img src="https://raw.githubusercontent.com/lampovayatyan999/lampovayatyan999/main/shiro.jpg" width="180" height="180" /> | <img src="https://raw.githubusercontent.com/lampovayatyan999/lampovayatyan999/main/jibril.gif" width="180" height="180" /> | <img src="https://raw.githubusercontent.com/lampovayatyan999/lampovayatyan999/main/azriel.jpg" width="180" height="180" /> |
 |:---:|:---:|:---:|
@@ -20,14 +17,17 @@
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | ![Zustand](https://img.shields.io/badge/Zustand-000?style=flat&logo=react&logoColor=white) | | |
 
-</td>
-<td valign="middle" width="40%" align="center">
+</div>
+
+<br>
+
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=2dqbs1ddm2dpq29lnixozywir&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2dqbs1ddm2dpq29lnixozywir&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="300">
   </a>
-</td>
-</tr></table>
-</div>
+</p>
+
+<br>
 
 
 <div align="center">
